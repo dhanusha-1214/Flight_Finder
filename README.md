@@ -36,7 +36,7 @@
 ```
 Flight_Finder/
 ├── 📁 Demo Video/
-│   └── Demo.mp4                  ← App walkthrough video
+│   └── FlightFinder-Demo.mp4                  ← App walkthrough video
 ├── 📁 Document/
 │   └── Flight_Finder.pdf         ← Project documentation
 └── 📁 Project Files/             ← Full source code (MERN app)
